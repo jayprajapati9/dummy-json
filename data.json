@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "name": "Alice Johnson",
+            "image": "https://randomuser.me/api/portraits/women/1.jpg",
+            "role": "Software Engineer"
+        },
+        {
+            "name": "Bob Smith",
+            "image": "https://randomuser.me/api/portraits/men/2.jpg",
+            "role": "Product Manager"
+        },
+        {
+            "name": "Charlie Brown",
+            "image": "https://randomuser.me/api/portraits/men/3.jpg",
+            "role": "UX Designer"
+        },
+        {
+            "name": "Diana Prince",
+            "image": "https://randomuser.me/api/portraits/women/4.jpg",
+            "role": "Marketing Lead"
+        }
+    ]
+}
